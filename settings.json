@@ -1,0 +1,11 @@
+{
+  "block_textures_path": "textures/blocks",
+  "item_textures_path": "textures/blocks",
+  "supportedTextures": [
+    ".tga",
+    ".png"
+  ],
+  "indent": 2,
+  "padding": 8,
+  "num_mip_levels": 4
+}

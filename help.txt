@@ -1,0 +1,8 @@
+"block_textures_path" // example: "C:/yourWorld/resourcePack/textures/blocks"
+"item_textures_path" // example: "C:/yourWorld/resourcePack/textures/items"
+
+"indent" // formatting stuff
+
+// only for blocks btw
+"padding" // padding?
+"num_mip_levels" // idk what's this
